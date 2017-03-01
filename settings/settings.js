@@ -60,8 +60,8 @@ settings.facebook.secret = "secret";
 
 //Leaflet version reference
 settings.leaflet = {};
-settings.leaflet.js = 'https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js?2';
-settings.leaflet.css = 'https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css';
+settings.leaflet.js = 'https://unpkg.com/leaflet@1.0.3/dist/leaflet.js';
+settings.leaflet.css = 'https://unpkg.com/leaflet@1.0.3/dist/leaflet.css';
 
 settings.jquery = {};
 settings.jquery.js = 'https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js';
