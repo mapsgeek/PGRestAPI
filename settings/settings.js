@@ -60,11 +60,11 @@ settings.facebook.secret = "secret";
 
 //Leaflet version reference
 settings.leaflet = {};
-settings.leaflet.js = 'http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js?2';
-settings.leaflet.css = 'http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css';
+settings.leaflet.js = 'https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js?2';
+settings.leaflet.css = 'https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css';
 
 settings.jquery = {};
-settings.jquery.js = 'http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js';
+settings.jquery.js = 'https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js';
 
 // For middleware that checks the referrer header of incoming requests
 settings.acceptableReferrers = [];
