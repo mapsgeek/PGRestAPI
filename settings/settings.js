@@ -17,11 +17,11 @@ settings.application.port = 3001;
 
 
 //Settings for postgres DB
-settings.pg.username = 'adminzmivnwk';
-settings.pg.password = 'wtAevtSP_CDj';
-settings.pg.server = '127.0.0.1';
-settings.pg.port = '5433';
-settings.pg.database = 'jbossews';
+settings.pg.username = 'postgres';
+settings.pg.password = 'postgres';
+settings.pg.server = 'localhost';
+settings.pg.port = '5432';
+settings.pg.database = 'ibrahimsails';
 settings.pg.featureLimit = 1000; //how many features to return by default
 
 //settings.otherSchemas = ['myschema']; //Optionally list postgres schemas other than 'public' to read
