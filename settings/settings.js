@@ -19,7 +19,7 @@ settings.application.port = 3001;
 //Settings for postgres DB
 settings.pg.username = 'adminzmivnwk';
 settings.pg.password = 'wtAevtSP_CDj';
-settings.pg.server = '127.12.155.2:5432';
+settings.pg.server = '127.12.155.2';
 settings.pg.port = '5433';
 settings.pg.database = 'jbossews';
 settings.pg.featureLimit = 1000; //how many features to return by default
